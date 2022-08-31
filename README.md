@@ -3,15 +3,15 @@ Public portfolio for Yuval Kaplan. Contains my contact information, examples of 
 
 **Link to project:** https://yuvalkaplanwebdesign.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+![Website thumbnail](images/portfoliothumb.png)
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, Node / Express, MongoDB, Heroku
 
-I used a template from html5up.com for the layout. Added my picture, about me section, contact info and proffesional links.
+I used a template from html5up.com for the layout. Added my picture, about me section, contact info and professional links.
 Deployed on Netlify. Used Netlify's email client to connect the form to my personal email account.
-Added personal projects with links and thumbnail pictures.
+Added personal projects with links and thumbnail pictures. Added links to Github repos.
 
 ## Optimizations
 
@@ -19,7 +19,7 @@ First used FormSubmit to connect the form to my personal email account, found re
 
 ## Lessons Learned:
 
-Lesson 1; keep things in-house. Since app is deployed on Netlify, using Netlify's built in email client works much faster and with less hassle then plugging in an external client like FormSubmit
+Lesson 1: keep things in-house. Since app is deployed on Netlify, using Netlify's built in email client works much faster and with less hassle then plugging in an external client like FormSubmit
 
 
 
