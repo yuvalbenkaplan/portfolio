@@ -3,7 +3,7 @@ Public portfolio for Yuval Kaplan. Contains my contact information, examples of 
 
 **Link to project:** https://yuvalkaplanwebdesign.netlify.app/
 
-![Website thumbnail](images/portfoliothumb.png)
+![Website thumbnail](images/portfoliothumb.jpg)
 
 ## How It's Made:
 
